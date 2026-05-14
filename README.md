@@ -260,6 +260,6 @@ marketing_campaign_dashboard.pbix
 
 # Author
 
-Delwin
+Delwin Benson
 
 Aspiring Data Engineer / Analytics Engineer
